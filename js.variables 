@@ -1,0 +1,13 @@
+// var
+var name = "Sumanth";
+
+// let
+let age = 25;
+
+// const
+const pi = 3.14159;
+
+// printing values
+console.log("Name:", name);
+console.log("Age:", age);
+console.log("PI:", pi);
