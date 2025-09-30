@@ -22,7 +22,7 @@
     // Calculate balance
     let balance = income - totalExpenses;
 
-    // Output result
+    // Output result using template literals for clean string formatting
     document.getElementById("result").innerHTML = `
       Income: $${income} <br>
       Rent: $${rent} <br>
@@ -34,3 +34,5 @@
   </script>
 </body>
 </html>
+
+
